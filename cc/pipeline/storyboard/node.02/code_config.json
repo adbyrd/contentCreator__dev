@@ -1,0 +1,20 @@
+[
+    {
+        "code": {
+            "name": "Validate HMAC + Payload",
+            "parameters":{
+                "mode": "Run Once for All Items",
+                "language": "JavaScript",
+                "javascript": ""
+            },
+            "settings": {
+                "always_output_data": "FALSE",
+                "execute_once": "FALSE",
+                "retry_on_fail": "FALSE",
+                "on_error": "Stop Workflow",
+                "notes": "HMAC-SHA256 validation + 11-field presence check. Halts with structured error on any failure.",
+                "display_notes_in_flow": "FALSE"
+            }
+        }
+    }
+]

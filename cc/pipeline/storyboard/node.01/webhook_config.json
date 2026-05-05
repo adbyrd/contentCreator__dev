@@ -1,0 +1,32 @@
+[
+    {
+        "webhook": {
+            "name": "Storyboard Webhook",
+            "parameters":{
+                "webhook_urls": {
+                    "test_url": "https://contentcreator.app.n8n.cloud/webhook-test/storyboard-trigger",
+                    "production_url": "https://contentcreator.app.n8n.cloud/webhook/storyboard-trigger"
+                },
+                "http_method": "POST",
+                "path": "/storyboard-trigger",
+                "authentication": "none",
+                "respond": "Using 'Respond to Webhook' Node",
+                "options": {
+                    "response_headers": {
+                        "name": "",
+                        "value": ""
+                    }
+                }
+            },
+            "settings": {
+                "allow_multiple_http_methods": "FALSE",
+                "always_output_data": "FALSE",
+                "execute_once": "FALSE",
+                "retry_on_fail": "FALSE",
+                "on_error": "Stop Workflow",
+                "notes": "Notes go here",
+                "display_notes_in_flow": "FALSE"
+            }
+        }
+    }
+]
