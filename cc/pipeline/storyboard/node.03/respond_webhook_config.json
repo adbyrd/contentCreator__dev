@@ -1,18 +1,17 @@
 [
     {
-        "code": {
-            "name": "Validate HMAC + Payload",
+        "webhook": {
+            "name": "Respond 200 OK",
             "parameters":{
-                "mode": "Run Once for All Items",
-                "language": "JavaScript",
-                "javascript": ""
+                "response_with": "JSON",
+                "response_body": "{\"ok\": \"true\"}"
             },
             "settings": {
                 "always_output_data": "FALSE",
                 "execute_once": "FALSE",
                 "retry_on_fail": "FALSE",
                 "on_error": "Stop Workflow",
-                "notes": "HMAC-SHA256 validation + 11-field presence check. Halts with structured error on any failure.",
+                "notes": "Fire-and-forget: returns HTTP 200 to Wix immediately. Pipeline continues async.",
                 "display_notes_in_flow": "TRUE"
             }
         }

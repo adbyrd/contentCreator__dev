@@ -1,0 +1,21 @@
+[
+  {
+    "projectId": "2c2c5dc8-dcdc-4f1f-80e6-2d4db8ab06a2",
+    "owner": "44dd37f0-76f8-4117-b410-1e8aa0c67689",
+    "companyName": "Rent-A-Chicken Co",
+    "companyDescription": "Seasonal backyard chicken rentals that provide families with egg-laying hens, a coop, and feed for several months.",
+    "primaryCategory": "health-and-medicine",
+    "customerType": "b2b",
+    "title": "Kids Learn Farming Initiative",
+    "goal": "influencing-consideration",
+    "offer": "eco-friendly-sustainable-line",
+    "misconception": "relevance",
+    "targetAudience": "mass-market-general-public",
+    "submissionId": "gs_1778084944128_ds4mlu",
+    "requestId": "req_2c2c5dc8-dcdc-4f1f-80e6-2d4db8ab06a2_1778084947336",
+    "pipelineVersion": "v1.2.0",
+    "stage1CompletedAt": "2026-05-06T16:29:07.337Z",
+    "promptGenAttempt": 1,
+    "promptGenStartedAt": "2026-05-06T16:29:07.349Z"
+  }
+]

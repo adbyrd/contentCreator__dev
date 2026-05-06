@@ -1,7 +1,7 @@
 [
     {
         "code": {
-            "name": "Validate HMAC + Payload",
+            "name": "Prompt Gen — Start Log",
             "parameters":{
                 "mode": "Run Once for All Items",
                 "language": "JavaScript",
@@ -12,7 +12,7 @@
                 "execute_once": "FALSE",
                 "retry_on_fail": "FALSE",
                 "on_error": "Stop Workflow",
-                "notes": "HMAC-SHA256 validation + 11-field presence check. Halts with structured error on any failure.",
+                "notes": "Logs PROMPT_GEN_START. Passes validated context to LLM node.",
                 "display_notes_in_flow": "TRUE"
             }
         }
