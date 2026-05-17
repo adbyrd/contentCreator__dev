@@ -1,0 +1,281 @@
+﻿"ID","Created Date","Updated Date","Owner","Parent Category","Parent Label","Sub Category","Sub Label","Sort Order","Active"
+"00df6318-435b-4873-9bc7-e9b41c01a2ec",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","holistic-practitioners","Holistic Practitioners",11,true
+"0106a18e-cf2c-49f1-98d1-487f52ffe51f",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","other","Other","car-rental-agency","Car Rental Agency",9,true
+"013ab5bf-bbfd-47c9-86f0-fa55faf64c77",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","wellness-coaches","Wellness Coaches",31,true
+"013c757a-5cf1-4f58-8bed-8cd642c09076",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","donut-shop","Donut Shop",9,true
+"01714030-4b0f-429c-befc-82ee2b5ff392",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","mortgage-lender","Mortgage Lender",18,true
+"02e167d7-3994-4520-907b-e2ee817c9fc7",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","golf-course","Golf Course",10,true
+"0352af3c-c092-46b4-a9af-94b2d045ebe1",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","pop-up-food-vendors","Pop-Up Food Vendors",23,true
+"03c1321b-2692-4e8f-97b0-6998d1203e39",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","night-club","Night Club",17,true
+"055064b0-9b9a-407d-86b3-ab46586b5b5e",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","seafood-restaurant","Seafood Restaurant",26,true
+"075dc58c-9e6a-447e-9e79-6b56075d5adc",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","nutritionist","Nutritionist",19,true
+"083cbc59-abe2-4574-a67a-773a9503f47c",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","restaurant","Restaurant",25,true
+"08cff812-b072-4d1d-8d7a-ec1e34735a75",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","community-based-services","Community-Based Services",30,true
+"0999a27d-7413-4b6f-9c0f-3f7dbd69bb3e",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","religious","Religious","cremation-service","Cremation Service",5,true
+"0be05561-e7ef-48d8-928a-dde6f0b4f3e8",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","performing-arts-theater","Performing Arts Theater",19,true
+"0c9f1d6f-96b0-420a-8e82-012b116b85c0",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","grant-writers","Grant Writers",19,true
+"0cae10b0-ea0b-43a4-ab3e-64b6961d81fb",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","other","Other","adult-entertainment","Adult Entertainment",1,true
+"0da3268b-7870-4444-b764-1f42b8da4e1b",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","dry-cleaner","Dry Cleaner",6,true
+"0e74f86e-66b9-4c8f-a94a-00adf8313150",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","hardware-store","Hardware Store",18,true
+"0eb1e715-0e8f-41db-9ee6-49f031412570",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","automotive","Automotive","turo-peer-to-peer-car-rentals","Turo / Peer-to-Peer Car Rentals",20,true
+"0f1e40f3-132f-44dc-82c9-30ea0eabc4c1",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","pub","Pub",23,true
+"0fc862cc-3ccb-487c-b8cd-5f62523b1317",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","fractional-roles","Fractional Roles",17,true
+"10b6d370-eb71-4797-a340-cc790d652aac",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","brunch-restaurant","Brunch Restaurant",4,true
+"10f88888-7004-431d-9809-2e33ecc22a8c",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","religious","Religious","cemetery","Cemetery",1,true
+"11836767-d31d-4dd6-aa9f-cfd8bda799ec",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","home-and-garden","Home & Garden","professional-organizers","Professional Organizers",13,true
+"14263b4d-77d0-4d80-a89e-6c0e35e61496",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","computer-repair-service","Computer Repair Service",10,true
+"16a0476f-9617-4598-b4f5-f70b7b1626f7",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","stadium","Stadium",25,true
+"16ece765-33f3-43f0-ab7b-31d226550e5f",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","digital-products","Digital Products","content-creators","Content Creators",2,true
+"178bfb90-fbc9-48bc-85f6-ca57a9d577f4",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","print-shop","Print Shop",25,true
+"18ef557c-bbfb-450b-993b-406f08832e7c",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","gift-shop","Gift Shop",16,true
+"1926b3a3-7824-44d4-a18d-d43a1432adad",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","psychotherapist","Psychotherapist",28,true
+"19e95902-f99f-4b1b-8295-37890f87537a",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","tattoo-shop","Tattoo Shop",34,true
+"1a3b11da-11af-46e3-9dfd-ad51eeec1f45",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","mexican-restaurant","Mexican Restaurant",21,true
+"1b0fe78c-e085-4a53-9155-5dc4241e1490",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","architect","Architect",3,true
+"1b52a0cf-ba97-4fc1-b552-02f5ca3516b2",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","beverage-brands","Beverage Brands",2,true
+"1c6b86cc-4ed6-419b-930a-6b9a937446dd",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","juice-bar","Juice Bar",19,true
+"1dad032c-60f2-4378-87bb-8eff83f92b72",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","courier-service","Courier Service",13,true
+"1fde8e0f-e7ce-464b-a2a3-10fcdb2c2064",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","home-and-garden","Home & Garden","property-maintenance","Property Maintenance",14,true
+"2343af9d-6d97-4987-859f-312420b9b36d",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","web-designer","Web Designer",29,true
+"234b3580-8e7e-4456-9c3d-594efa831e81",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","vacation-rental-agency","Vacation Rental Agency",28,true
+"243fc85c-f6ec-4697-b595-a574cc6a12b4",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","liquor-store","Liquor Store",21,true
+"25be823f-330b-4297-b201-6231c504f6a4",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","automotive","Automotive","motorcycle-repair","Motorcycle Repair",14,true
+"27147fa0-d028-4faa-a982-95611545d28e",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","home-and-garden","Home & Garden","handyman-content-creators","Handyman Content Creators",6,true
+"2786cef0-0a57-4e32-896a-8e9c334898d4",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","credit-union","Credit Union",5,true
+"282fd8ce-8b23-46db-9166-c3055c13c0e3",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","hvac-contractor","HVAC Contractor",11,true
+"29580d64-7bf2-4dca-be94-44c9901d4e4a",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","religious","Religious","faith-based-content-creators","Faith-Based Content Creators",6,true
+"2978a13c-d74d-44c3-acaf-0b47fe719582",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","religious","Religious","temple","Temple",13,true
+"29f89c8b-1c0a-4a39-9507-0565dd4ef881",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","construction-company","Construction Company",11,true
+"2aca10d2-7f1a-4833-9643-5d5ef3deffe5",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","home-and-garden","Home & Garden","home-cleaning-influencer","Home Cleaning Influencer",7,true
+"2bde3ef4-c199-4d1b-90ca-49647e2fe98c",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","concert-hall","Concert Hall",7,true
+"2d701e7a-c880-4fbf-b753-39fa097cce1a",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","other","Other","train-station","Train Station",23,true
+"2f0f9759-9513-43d0-9d8b-bbf87f6519eb",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","dentist","Dentist",4,true
+"2f48ff9c-2e80-4200-908e-a7cd2445cd3c",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","etsy-handmade-seller","Etsy / Handmade Seller",12,true
+"301b3675-d249-4d6e-919a-3dd694073a44",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","motel","Motel",14,true
+"338f205f-c4d2-4451-acec-5aa882003c0b",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","sushi-restaurant","Sushi Restaurant",29,true
+"3397cb2b-e6d7-4a92-a5b2-eddd47199e92",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","convenience-store","Convenience Store",7,true
+"34939380-2640-49f3-81ec-b33bbf5484ae",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","park","Park",18,true
+"355f14c0-5b94-468f-a7ec-a04399fbaf65",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","nutrition-coaches","Nutrition Coaches",18,true
+"36c3cf4b-ecc1-4d76-b177-29cc95144878",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","party-supply-store","Party Supply Store",24,true
+"37aa527d-abfb-4c54-b91c-f36e6b03308d",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","religious","Religious","mosque","Mosque",9,true
+"398b935f-ab30-46b4-94b8-49fd2b4f72ff",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","thrift-store","Thrift Store",32,true
+"3be4513c-6c75-4ee4-bd42-4628a663aed2",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","other","Other","tourist-attraction","Tourist Attraction",22,true
+"3c3bd2de-cdda-42a2-aa08-a83d86fa5104",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","other","Other","travel-agency","Travel Agency",24,true
+"3d9ca988-5097-43b4-b740-25bdd4cc6ca3",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","pediatrician","Pediatrician",23,true
+"3e8fd65e-ca69-499e-a477-026e66968795",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","advertising-agency","Advertising Agency",1,true
+"3e92cbb1-ecd5-4aff-9fbf-6cea1ff1b696",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","bank","Bank",2,true
+"3ed1f46c-b054-4d8d-9c87-ace1230dc96f",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","wine-store","Wine Store",36,true
+"41021410-12eb-4cec-9135-484a801aeec2",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","home-and-garden","Home & Garden","airbnb-short-term-rental-hosts","Airbnb / Short-Term Rental Hosts",1,true
+"43023d8d-22be-45cb-85a1-b37c257870c8",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","home-and-garden","Home & Garden","interior-styling","Interior Styling",8,true
+"43adfa21-5fcb-4ef9-9897-b99e93d51d62",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","business-coach","Business Coach",6,true
+"46637c3c-6ab4-4ebb-879b-a0857f5952f6",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","interior-designer","Interior Designer",21,true
+"468c6c1e-1ec4-48d3-b6b3-57b5111a3579",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","ophthalmologist","Ophthalmologist",20,true
+"4750d172-8e8d-49dd-bd11-cda62e392ac2",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","on-demand-local-services","On-Demand Local Services",21,true
+"487e2156-c0a4-4aca-8acd-170c48890513",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","automotive","Automotive","ev-services","EV Services",11,true
+"48c349aa-a4bb-4932-9534-9b57aea1405e",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","insurance-agency","Insurance Agency",12,true
+"4bb2f6dc-ae7d-4d63-a688-a22ef2d73c96",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","personal-services","Personal Services",31,true
+"4bf6631c-ed1f-4b49-8f02-d5148ac914b0",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","home-and-garden","Home & Garden","landscape-design","Landscape Design",10,true
+"4c57b466-2c70-4c3e-8ad4-7179ab4b0d8d",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","seasonal-services","Seasonal Services",29,true
+"4cad6207-3a7d-4d19-87eb-543c651e3b1b",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","chinese-restaurant","Chinese Restaurant",6,true
+"4cebc0ea-4f63-41d8-884b-ade2db53634f",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","automotive","Automotive","towing-service","Towing Service",19,true
+"4cf6f89e-27ed-4601-977a-6bcec7de16e8",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","lounge","Lounge",13,true
+"4dc77f66-586e-457f-a2cd-a3f7204bcd31",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","fitness-center","Fitness Center",8,true
+"4e3e30c8-bf10-469f-a4cf-2e8a325e0685",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","personal-errand-concierge","Personal Errand / Concierge",23,true
+"4e78c26a-5572-4091-8a65-a9f16dec6b4b",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","subscription-boxes","Subscription Boxes",30,true
+"50d7a2f6-4367-413d-9971-cb420f413264",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","city-focused-influencers","City-Focused Influencers",32,true
+"514d26d0-1312-4573-a7db-513971c775ad",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","caterer","Caterer",8,true
+"516d3ab6-bd05-4caa-8876-3bead90177b6",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","digital-products","Digital Products","newsletter-writers","Newsletter Writers",7,true
+"52a4d0ff-bb71-49a6-975d-7e5daa1397fe",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","junk-removal-hauling","Junk Removal / Hauling",13,true
+"56629d05-06ab-4d7b-992e-5d26049b098d",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","landscaper","Landscaper",14,true
+"570ac82b-bf16-490c-83be-6b6bd8c89c2b",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","real-estate-agency","Real Estate Agency",27,true
+"57df314f-0aeb-41cd-a612-15fb3ee41f74",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","compliance-consultants","Compliance Consultants",9,true
+"589c600e-5416-4f87-86fe-10dfb24f2118",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","home-and-garden","Home & Garden","lighting-store","Lighting Store",11,true
+"5a69eb6d-bd6e-4b63-95db-645fa4154ff6",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","brand-strategists","Brand Strategists",5,true
+"5ac20e0a-e382-4137-9a61-7bd37f3c932a",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","coffee-shop","Coffee Shop",7,true
+"5b1e8921-523f-40a0-94af-06f1d4e1eed4",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","other","Other","campground","Campground",8,true
+"5ceb3456-10c4-4d4b-8c54-e95a095c30b2",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","religious","Religious","church-media-teams","Church Media Teams",3,true
+"5ceda22f-8ee5-49b4-ac9b-cad95c67ff24",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","brand-only","Brand-Only",5,true
+"5f14a21d-055d-430a-9e51-fa4b27ab0f67",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","yoga-studio","Yoga Studio",32,true
+"5f9ee11d-eec2-4c92-8691-86f83fed74b7",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","museum","Museum",16,true
+"5fb6c286-c0f0-4cac-9ded-106d000fb513",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","other","Other","ski-resort","Ski Resort",20,true
+"61020ca8-b212-41c9-8a15-f5c790682195",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","urgent-care-center","Urgent Care Center",29,true
+"6169f2a5-e052-4568-847c-14945f1d8cd2",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","pharmacy","Pharmacy",24,true
+"6242da8a-6cf1-4ea4-88f6-df977d9627bf",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","animal-hospital","Animal Hospital",2,true
+"62552388-3140-4180-a2f1-776f028266a3",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","ice-cream-shop","Ice Cream Shop",16,true
+"629039f0-1268-474c-b906-bb92e8feff5a",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","law-firm","Law Firm",16,true
+"68b8143a-00fe-4ff2-b575-d15f34bf46fc",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","bed-and-breakfast","Bed & Breakfast",3,true
+"68bb2119-a728-488c-bdb2-d42a0940dd24",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","indian-restaurant","Indian Restaurant",17,true
+"68fbbc86-6e6e-4844-b5d1-2342c3b92ffc",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","business-coaches","Business Coaches",7,true
+"691d85fa-9da1-4bca-9f98-4426953dd16e",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","psychologist","Psychologist",27,true
+"69904765-b882-4f8d-a93a-8a13255f2c22",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","furniture-store","Furniture Store",14,true
+"6c00d6d5-36b8-4fca-a7f4-4c6a6eff3708",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","post-office","Post Office",21,true
+"6c6e0787-6205-48e6-af5f-fb6fd24447b9",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","optometrist","Optometrist",21,true
+"6ccf82cf-96e4-4a1d-92b5-9a7ba4f280e0",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","shoe-store","Shoe Store",28,true
+"6cfc46ce-659d-419d-8f4e-9df8f952a415",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","moving-company","Moving Company",19,true
+"6e135892-94fb-4bbe-a34f-b818f12271a6",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","acupuncturist","Acupuncturist",1,true
+"6e5bebb2-79cd-4a04-8a1b-d47ef3ba6d41",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","private-school","Private School",22,true
+"6f51b4ec-7af0-4262-a3bd-a3e456c3c1c0",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","automation-builders","Automation Builders",4,true
+"6febfd76-1f25-41ce-a645-4a26a57e4553",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","automotive","Automotive","auto-parts-store","Auto Parts Store",6,true
+"7081c633-c11a-4e9d-8521-6a336500b5fe",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","vegan-restaurant","Vegan Restaurant",31,true
+"70c1fcb2-053d-4c77-8c64-ef1ce5c58cbe",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","automotive","Automotive","car-flipping-resale","Car Flipping / Resale",8,true
+"7239c0c8-f758-49e2-8b91-d9759bb89029",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","automotive","Automotive","auto-content-creators","Auto Content Creators",3,true
+"73526241-60f0-4b8e-a1b1-9b7e97ea09a2",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","dietitian","Dietitian",6,true
+"755bfaf8-3af9-4809-84b7-6bca597a4175",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","courthouse","Courthouse",8,true
+"7584eeff-b86b-415b-bd49-f0cd0f70ad4b",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","religious","Religious","spiritual-coaches","Spiritual Coaches",11,true
+"75b516d8-a760-4541-b1c2-d7d34d95753f",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","graphic-designer","Graphic Designer",20,true
+"75e48904-7769-4faa-9f8a-930a385ded7f",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","home-and-garden","Home & Garden","mattress-store","Mattress Store",12,true
+"76384c59-483c-4e51-8509-1d4ea2744a16",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","other","Other","zoo","Zoo",26,true
+"76ab93f9-1cc7-4f03-8561-bf43e16c85f3",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","university","University",27,true
+"76db4368-305a-43f1-87a0-25e7a9097d2a",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","other","Other","airline","Airline",2,true
+"77629e8e-b88e-4fd8-91a7-563c78a61caa",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","home-and-garden","Home & Garden","antique-store","Antique Store",2,true
+"776c2756-3358-4956-89e9-5008cd501791",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","garden-center","Garden Center",15,true
+"785bcca1-59d5-4c87-bbb9-c2c3df117d22",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","photographer","Photographer",25,true
+"7a34ae97-ce8e-4cc9-a59f-c475bc67f6bf",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","dermatologist","Dermatologist",5,true
+"7a9f7a14-bcef-4a04-8fc5-e3ed135591b3",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","other","Other","water-utility","Water Utility",25,true
+"7b75fb69-3dc6-437c-8b28-f51a6d31792c",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","toy-store","Toy Store",34,true
+"7b8f8c36-c2f9-4d02-84ba-948295849f6a",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","department-store","Department Store",8,true
+"7f47e86b-0ce5-4b57-a1f0-4e9bb5896f71",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","home-goods-store","Home Goods Store",19,true
+"7f7d4ed4-fd56-487b-9ae1-2acfb4d18670",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","pharmacy","Pharmacy",24,true
+"8105588d-93f0-4fdd-ac9f-23be6f4f78d0",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","bakery","Bakery",1,true
+"83cfc2de-7cb1-43f4-9bfe-a9dc83c9d940",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","religious","Religious","funeral-home","Funeral Home",8,true
+"842db7e6-e0c8-491f-91d6-8dc19878e565",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","ai-consultants","AI Consultants",2,true
+"858ce878-4fb1-473d-acdb-3566221e415d",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","laundry-service","Laundry Service",15,true
+"8760d5f7-6c4d-46c6-b711-d5388d69910e",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","jewelry-store","Jewelry Store",20,true
+"87783514-55bd-47b4-81cb-9209db389314",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","engineering-firm","Engineering Firm",15,true
+"88640bc9-2eff-479a-ab25-c26dfb692d92",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","ghost-kitchen-operators","Ghost Kitchen Operators",15,true
+"8924fa52-1ab7-454f-acaa-e13debffd8c7",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","financial-advisor","Financial Advisor",9,true
+"896b7422-57b3-4489-a898-437f205a7e4f",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","fast-food-restaurant","Fast Food Restaurant",10,true
+"898dc90a-e464-4828-8b66-0df01b04c221",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","other","Other","airport","Airport",3,true
+"8a9f14c4-f55f-44df-b547-ef6723306da5",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","massage-therapist","Massage Therapist",14,true
+"8ac3fbb0-4184-47b5-80fc-5dec6037f81b",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","task-based-freelancers","Task-Based Freelancers",33,true
+"8b00637f-68ac-49ce-a805-3a47a8a0112e",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","swimming-pool","Swimming Pool",26,true
+"8b216e00-e35c-4059-8ebf-47ad840ffcde",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","nail-salon","Nail Salon",20,true
+"8dbb5ea6-8e07-4432-84e8-e412db3b5c84",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","veterinarian","Veterinarian",30,true
+"8e5e25ad-2d87-4f3a-b670-7e6ffecae50f",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","cleaning-service","Cleaning Service",4,true
+"8f4586c7-8b9a-4d6f-82c5-aed63a93addf",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","event-planner","Event Planner",16,true
+"8fe478e6-deb4-485d-bf31-3ec95a1e23d6",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","digital-products","Digital Products","digital-artists","Digital Artists",4,true
+"9265f126-630f-4e2a-8f82-cefdc5d5a63f",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","religious","Religious","worship-music-creators","Worship Music Creators",14,true
+"92f092d1-b847-4a9c-bd70-f9a3e3f1ffad",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","roofer","Roofer",28,true
+"933a35d5-582a-4a72-a0bd-b53e12707252",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","sign-shop","Sign Shop",27,true
+"93de8383-107e-4725-9e03-f5677e60eb2f",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","automotive","Automotive","auto-accessories-and-customization","Auto Accessories & Customization",1,true
+"94576cdf-79fd-4486-a313-b4df0513b914",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","automotive","Automotive","car-wash","Car Wash",10,true
+"94a9808c-07a8-4f86-9a6a-235acaa006d8",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","pest-control-service","Pest Control Service",24,true
+"94d6f660-8243-4b93-b7ee-47ac333eac62",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","hotel","Hotel",11,true
+"95520677-54cd-4428-bb96-f71c417bcc3a",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","art-gallery","Art Gallery",1,true
+"95897c95-8317-4b24-ac53-441e55c356ad",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","pilates-studio","Pilates Studio",26,true
+"95e2530e-5e4e-4444-ab0d-4d16e05ce370",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","religious","Religious","synagogue","Synagogue",12,true
+"96ecb561-84f3-473e-80da-4f9c00bb41e3",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","dropshipping","Dropshipping",9,true
+"98356aa9-9c13-40f7-818a-b06657ce4f5c",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","meal-prep-services","Meal Prep Services",20,true
+"9a8d89b0-b457-4eb8-93f3-8f75e6de4f27",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","hyper-local-consultants","Hyper-Local Consultants",33,true
+"9b160eda-a2f7-4837-9336-43449092faad",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","other","Other","gas-utility","Gas Utility",13,true
+"9bc9fd47-d10d-49c9-9572-99c96361d21e",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","clothing-store","Clothing Store",6,true
+"9bdae765-5047-4e1e-b805-5ab21b2321ab",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","other","Other","taxi-service","Taxi Service",21,true
+"9c7a63ba-9b54-41c0-91aa-08530d0b25fd",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","digital-products","Digital Products","membership-owners","Membership Owners",6,true
+"9cc885fd-f761-41de-810b-eb57a9587ea7",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","other","Other","amusement-park","Amusement Park",4,true
+"9d5d9f79-b80a-460e-8b01-af7c24340197",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","resale-thrift-vintage-seller","Resale / Thrift / Vintage Seller",26,true
+"9ebaa0e1-8710-4942-be0e-99fd93e9e2fe",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","home-and-garden","Home & Garden","appliance-store","Appliance Store",3,true
+"9f41b3ab-bd21-4c78-9bdc-05046a342ef2",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","digital-products","Digital Products","influencers","Influencers",5,true
+"9fa9e98b-1c51-4e12-8b9c-1718a32e3135",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","fire-station","Fire Station",9,true
+"a1042d92-46b1-4523-a248-4d01d0c11d1b",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","supermarket","Supermarket",31,true
+"a2576d02-37a9-4dfa-b5f8-914be046ace1",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","other","Other","boat-rental","Boat Rental",6,true
+"a47fff73-06aa-44ad-bfd6-5047704054aa",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","religious","Religious","church","Church",2,true
+"a525e4dd-4123-4920-b53f-dda214b2e8e4",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","orthodontist","Orthodontist",22,true
+"a553eea9-0e47-4584-88a7-e4b7f4669d4a",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","electronics-store","Electronics Store",11,true
+"a623e1ae-cdaa-437f-8cb3-7fdc371978ef",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","other","Other","landfill","Landfill",14,true
+"a62d6ad4-c4e0-4f79-bac2-b89027bb1622",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","other","Other","recycling-center","Recycling Center",19,true
+"a70247c2-3143-4e80-81ce-edd7bb726866",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","other","Other","aquarium","Aquarium",5,true
+"a73cf085-65a8-4347-a73f-214b58589553",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","home-and-garden","Home & Garden","window-supplier","Window Supplier",16,true
+"aa186323-8907-44c8-bc2e-f0ff2f1d6987",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","private-chefs","Private Chefs",24,true
+"aa516aee-d37f-4a08-b2a7-8d3aa861eb14",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","barber-shop","Barber Shop",3,true
+"abbde21d-a185-488f-9393-899d6c21621e",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","other","Other","bus-station","Bus Station",7,true
+"acd6a0fc-62e5-44f8-be1c-6797131024dc",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","automotive","Automotive","auto-body-shop","Auto Body Shop",2,true
+"ad680a62-8016-4faa-8d3b-22b858fb6fad",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","other","Other","marina","Marina",16,true
+"ad8d3d73-ad7c-4902-817e-feb0c95f2527",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","mall","Mall",22,true
+"adc2ad42-f801-4f01-b2d1-b4418faf3817",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","religious","Religious","community-outreach-brands","Community Outreach Brands",4,true
+"af85b46f-a89c-4ca3-af59-11b1102daa03",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","community-center","Community Center",6,true
+"b0550e1a-926f-4d86-8e9b-033937faba8b",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","it-service","IT Service",22,true
+"b1850a35-3ddc-4f17-817d-ae98e083617f",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","hair-salon","Hair Salon",10,true
+"b1fafd7c-b1d1-496f-a64b-d9e8b9860786",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","religious","Religious","religious-educators","Religious Educators",10,true
+"b4251b07-c5c7-41e5-8f79-82c9b21ae772",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","cafe","Cafe",5,true
+"b4bf548c-8028-4f85-971e-5362ed5e38f8",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","amazon-fba","Amazon FBA",1,true
+"b53afe7f-9106-4581-b8bb-5c5b59796318",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","gastropub","Gastropub",14,true
+"b594b57d-8449-4ec4-a03e-4d526c69c57f",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","general-contractor","General Contractor",18,true
+"b60bda25-d2e6-4fa0-beed-36184745fc54",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","painter","Painter",22,true
+"b658b7b0-151d-4d26-b43a-66e37e8f1303",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","gym","Gym",10,true
+"b6899441-4572-4668-b611-0c36110a88a3",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","event-support-services","Event Support Services",8,true
+"b69b57e2-f8cc-4445-9145-cbe58b260a3f",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","chiropractor","Chiropractor",3,true
+"b7aaadf1-8d4c-4599-80f5-25a9a50bef4f",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","plumber","Plumber",26,true
+"b7ae8475-58e8-41b4-b87d-34ecac9973c5",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","digital-products","Digital Products","course-creators","Course Creators",3,true
+"b8fe7951-32a1-4b53-b00e-1d1409c8827b",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","other","Other","dump","Dump",12,true
+"ba6e533d-2764-491c-9c5b-680ac10ebe02",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","automotive","Automotive","fleet-commercial-vehicle-services","Fleet / Commercial Vehicle Services",12,true
+"ba922db8-fbf0-4e2f-b22e-2857e5fda8ed",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","proposal-writers","Proposal Writers",26,true
+"bb2cbea7-8261-48ae-90b8-f43a4e6d9163",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","thai-restaurant","Thai Restaurant",30,true
+"bb65aa78-2f3e-4718-bb50-e19a2a97a655",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","pizza-restaurant","Pizza Restaurant",22,true
+"bc0079d1-82ae-4aae-bb2b-8821504cbdbb",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","med-spa-support-brands","Med Spa Support Brands",15,true
+"be04bd84-f6c6-4aef-973d-1b93d1f5c079",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","home-and-garden","Home & Garden","kitchen-supply-store","Kitchen Supply Store",9,true
+"c0272b9c-ce37-4973-97e3-687e42970849",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","physiotherapist","Physiotherapist",25,true
+"c0954a95-d4af-4547-907d-cc45ead4fe00",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","food-truck","Food Truck",12,true
+"c2a7ae8f-19e9-4c54-af82-bb43362f33bb",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","florist","Florist",13,true
+"c4a0d520-6fc1-4c24-a19c-a3c33814f9d3",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","automotive","Automotive","auto-glass-shop","Auto Glass Shop",5,true
+"c4cfd298-0b33-4b78-8b4b-6edd6c7cc30e",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","drugstore","Drugstore",10,true
+"c5121e9b-32c8-4870-9266-5aa3db35104a",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","cottage-food-business","Cottage Food Business",8,true
+"c87515af-d951-4cbe-9430-83264855ff2b",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","food-content-creators","Food Content Creators",11,true
+"ca283fe6-3f4e-42c4-8e6c-910c9406c617",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","vegetarian-restaurant","Vegetarian Restaurant",32,true
+"cb9b951a-044b-4154-ad14-d39290c5fb05",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","tiktok-shop-seller","TikTok Shop Seller",33,true
+"cc051aee-d99a-4b41-9eee-a4a8e68db88d",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","italian-restaurant","Italian Restaurant",18,true
+"cd8bd3f0-0a8d-431a-a9c5-29549c34d2ce",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","automotive","Automotive","car-dealership","Car Dealership",7,true
+"ce22637e-b853-4a74-adf5-8b879abe9ec3",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","storage-facility","Storage Facility",31,true
+"d1c03f7c-b5ef-43b0-be97-b2fa626937c3",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","digital-products","Digital Products","ai-prompt-sellers","AI Prompt Sellers",1,true
+"d1d3daa6-1177-44ce-846c-a23e6b23deb2",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","home-and-garden","Home & Garden","bathroom-supply-store","Bathroom Supply Store",4,true
+"d2a61ee4-ea0a-47b5-a63c-9a9b22184c67",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","smoothie-bar","Smoothie Bar",27,true
+"d2dd11fc-aed2-476f-b2d5-001b48312a91",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","other","Other","check-cashing-service","Check Cashing Service",11,true
+"d3fddece-75fc-4828-b732-8f5e7c1e6c55",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","software-company","Software Company",28,true
+"d45332aa-5cd0-45ab-9058-b01e7c4df79f",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","retail-store","Retail Store",27,true
+"d47343aa-bbe8-4859-9612-ad88df0e9c15",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","automotive","Automotive","mobile-auto-services","Mobile Auto Services",13,true
+"d4965ccc-944c-4638-bd2a-6ff175cd4772",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","electrician","Electrician",7,true
+"d5127f55-8e2e-42c3-87b4-6c6280fd3f49",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","city-hall","City Hall",4,true
+"d5458e2a-bdef-4952-8c31-7c25d7fb1032",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","marketing-agency","Marketing Agency",23,true
+"d710ad95-c63c-4677-8b75-aee87454f7f5",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","consultant","Consultant",12,true
+"d9d10a93-6494-4da4-866b-88603db2138c",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","home-and-garden","Home & Garden","smart-home-consultants","Smart Home Consultants",15,true
+"d9d73acb-1f44-41e2-9230-bc8720f75264",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","automotive","Automotive","oil-change-service","Oil Change Service",15,true
+"da2b26aa-145f-4b60-a397-70c8975e3357",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","book-store","Book Store",4,true
+"dc92f816-e377-4540-bbc0-d89881f65e22",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","sporting-goods-store","Sporting Goods Store",29,true
+"dc9efab7-8948-4ecb-baa6-6cb5f655f857",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","home-health-aides","Home Health Aides",12,true
+"de527a96-38fe-4c77-94b1-b23ce74da1c8",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","professional-services","Professional Services","delivery-service","Delivery Service",14,true
+"e0c5b792-0ae4-4d40-ab8a-97367f5f59f6",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","vintage-store","Vintage Store",35,true
+"e129d0ea-bf0f-4de2-943a-7f59a1077ad1",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","other","Other","casino","Casino",10,true
+"e1dc6463-f0e3-409a-aaff-d804516713b2",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","food-truck-marketing-only","Food Truck Marketing-Only",13,true
+"e2fdfa73-5217-415b-aab6-aed54be63a2d",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","library","Library",12,true
+"e4afb89a-c228-4159-b62e-378cb4810ed6",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","mental-health-content-creators","Mental Health Content Creators",17,true
+"e4e118a7-c9e9-40c6-8312-ef85db4e1c6e",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","medical-clinic","Medical Clinic",16,true
+"e5558ae9-32d3-4213-a66c-0f39f956f57e",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","movie-theater","Movie Theater",15,true
+"e6eee7e7-3c0e-476a-aaa7-cd625f01ce14",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","college","College",5,true
+"e743b00d-7035-47c8-97bd-92568721bd28",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","bar","Bar",2,true
+"e78972fc-91ca-4c3d-bf50-37fac0af0c8a",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","hospital","Hospital",13,true
+"e8c5e3c2-e366-454c-aeb7-b7aa111d4cc6",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","print-on-demand","Print-on-Demand",25,true
+"eb65b3ba-6761-4391-93f0-57c99914649f",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","grocery-store","Grocery Store",17,true
+"eb89b89d-aba2-4cd2-bf18-0f593b8c269d",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","police-station","Police Station",20,true
+"ee9bb00b-d91d-4733-a058-3b066a9b451a",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","religious","Religious","faith-based-non-profits","Faith-Based Non-Profits",7,true
+"ef4ad784-97ac-4eb5-a254-fc785d2adc36",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","automotive","Automotive","auto-detailing-service","Auto Detailing Service",4,true
+"f005766c-5fac-4cee-875f-38f8d3c13c0a",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","breakfast-restaurant","Breakfast Restaurant",3,true
+"f01e83ce-a693-4a61-aba8-1aad62938b58",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","doctor","Doctor",7,true
+"f0285c51-f062-4ce9-8ad5-a5da36c9e43b",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","automotive","Automotive","tire-shop","Tire Shop",18,true
+"f13f878b-67e3-48f0-8ef4-16e62b475e16",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","automotive","Automotive","rv-dealership","RV Dealership",17,true
+"f3afd17d-b4af-4891-bea1-1d05a77f964e",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","mobile-service-providers","Mobile Service Providers",29,true
+"f49082b2-e4cb-4c0b-9a0f-d965d4144814",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","beauty-supply-store","Beauty Supply Store",2,true
+"f4b3a794-71bc-471a-9989-b9887ded6cd3",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","other","Other","limousine-service","Limousine Service",15,true
+"f6ed3b48-3273-44e9-b9ae-1c35fee03bed",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","automotive","Automotive","car-repair","Car Repair",9,true
+"f73f38b2-13c0-4e8c-8f7c-266480dc8b27",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","automotive","Automotive","roadside-assistance","Roadside Assistance",16,true
+"f7bb9684-343c-4231-aeaa-805836b1cc39",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","other","Other","power-plant","Power Plant",18,true
+"f7db27f0-ad98-454f-a236-7776c030134e",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","home-and-garden","Home & Garden","flooring-store","Flooring Store",5,true
+"f92bd985-abb3-4714-a915-ce38767dad09",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","locksmith","Locksmith",17,true
+"fa5ab307-fb3d-4339-9ad0-1b8c58fe83b9",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","tanning-salon","Tanning Salon",32,true
+"fbc9b8a4-8f44-4e13-a944-20be4c788529",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","bicycle-store","Bicycle Store",3,true
+"fc100cf7-3d83-4590-a0e9-ffd9a2b8242a",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","other","Other","pawn-shop","Pawn Shop",17,true
+"fddb43a0-c646-4be1-b603-e169291169c1",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","food-and-dining","Food & Dining","steakhouse","Steakhouse",28,true
+"fe4680b7-72c6-4b71-b468-11d956930b8a",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","accounting-firm","Accounting Firm",1,true
+"fecf6b81-9f38-45bc-8d21-6d4b21064f6e",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","health-and-medicine","Health & Medicine","fitness-instructors","Fitness Instructors",9,true
+"ff08a1e0-7f30-442e-aec9-23d22a8650da",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","digital-products","Digital Products","podcast-hosts","Podcast Hosts",8,true
+"ff5441d8-6e61-4ae6-950c-9c9d1c711f05",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","local-services","Local Services","public-school","Public School",24,true
+"ffb4395a-fccc-498f-80f3-389c376ca0e4",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","retail-and-shopping","Retail & Shopping","pet-store","Pet Store",23,true
+"ffcfb378-1f8a-406b-bdbc-2c58c5c6e9f1",2026-04-02T15:24:31Z,2026-04-02T18:08:15Z,"155164e1-54d5-4711-be9f-d137d8e2c1d4","general-services","General Services","spa","Spa",30,true
